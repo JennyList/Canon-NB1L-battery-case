@@ -5,7 +5,7 @@ This just creates a 3D printable shell to fit in place of the battery, ready for
 I'm using it with an external power supply, maybe you could find a Li-Po cell with on-board protection and temp sensor to fit.
 Do *NOT* use a cell without a protection board!
 
-##Requirements
+## Requirements
 This module needs my project box library to run.
 This can be found at https://github.com/JennyList/Jennys-rectangular-project-box
 
