@@ -9,7 +9,7 @@ Do *NOT* use a cell without a protection board!
 This module needs my project box library to run.
 This can be found at https://github.com/JennyList/Jennys-rectangular-project-box
 
-You'll find two parts, the box and the lid. Print with supports over the bed.
+You'll find two parts, the box and the lid. Print with supports over the bed. The screw holes in the lid aren't quite right, so beware.
 You'll also need four small self-tapping screws to assemble it.
  
 ![OpenSCAD render of a Canon NB1L shell](Canon-NB1L.png)
