@@ -49,7 +49,7 @@ module NB1L(){
         }
         translate([16,9,0]) cube([14,14,1]); //middle notch to locate with camera
     }
-    translate([0,40,0]) projectBoxLid(50,32.25,2,1,1.25);
+    translate([0,40,0]) projectBoxLid(50,32.25,9.25,2,1,1.25);
 }
 
 NB1L();
